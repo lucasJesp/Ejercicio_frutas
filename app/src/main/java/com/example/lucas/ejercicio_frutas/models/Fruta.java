@@ -9,6 +9,7 @@ public class Fruta {
     private String origen;
     private String icono;
     private String Hola;
+    private String Lucas;
 
     public Fruta(String nombre, String origen, String icono) {
         this.nombre = nombre;
