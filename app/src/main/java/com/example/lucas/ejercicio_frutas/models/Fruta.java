@@ -10,6 +10,7 @@ public class Fruta {
     private String icono;
     private String Hola;
     private String Lucas;
+    private String cambio;
 
     public Fruta(String nombre, String origen, String icono) {
         this.nombre = nombre;
