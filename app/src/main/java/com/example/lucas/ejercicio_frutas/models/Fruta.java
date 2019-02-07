@@ -8,6 +8,7 @@ public class Fruta {
     private String nombre;
     private String origen;
     private String icono;
+    private String Hola;
 
     public Fruta(String nombre, String origen, String icono) {
         this.nombre = nombre;
